@@ -9,4 +9,5 @@ public class LUlz extends JavaPlugin {
 	public final Logger logger = Logger.getLogger("Minecraft");
 
 	int i;
+	int j;
 }
