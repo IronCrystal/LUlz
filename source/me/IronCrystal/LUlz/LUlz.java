@@ -11,4 +11,5 @@ public class LUlz extends JavaPlugin {
 	int i;
 	int j;
 	int k;
+	int m;
 }
