@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>me.IronCrysatal</groupId>
   <artifactId>LUlz</artifactId>
-  <version>0.1</version>
+  <version>1.0-SNAPSHOT</version>
   <name>LUlz</name>
       <repositories>
         <!-- Bukkit can be found at the following repository -->
